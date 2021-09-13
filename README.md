@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iann de Lapeyriere</h1>
-<h3 align="center">Passionate about Data science for crypto market</h3>
+<h3 align="center">Passionate about Data science mostly for the crypto market</h3>
 
 - 🔭 I’m currently working on [Market sentiment analysis](https://github.com/ianndelap/market_sentiment)
 
